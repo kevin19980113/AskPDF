@@ -37,7 +37,6 @@ AskPDF is a full-stack application that allows users to upload PDF documents and
 - OpenAI and Langchain for AI-powered features
 - Pinecone for vector database functionality
 - Stripe for payment processing
-- PDF parsing libraries
 
 ## Project Structure
 
